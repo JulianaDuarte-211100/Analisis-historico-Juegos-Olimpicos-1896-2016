@@ -44,3 +44,15 @@ Hipotesis general
 "La mayoría de los participantes en las Olimpiadas se concentra en un rango etario promedio de 23 años, con una edad máxima de alrededor de 50 años, ademas en el Top 10 de los deportes con mayor cantidad de medallas, la participación masculina continúa siendo predominantemente superior, aunque en los últimos años la proporción de hombres y mujeres se ha equilibrado en comparación con décadas anteriores. Por otro lado, la media de las alturas difieren considerablemente entre géneros, y no se observa una relación clara entre altura y peso en la mayoría de los casos"
 
 Para el desarrollo de la misma sera necesario analizar muchos de los factores claves del Dataset elegido ya que es necesario investigar en primer medida el rango etario de los participantes (que se realizara por rango para poder identificar mejor la distribución de cada grupo), luego distinguir el genero de los mismos, analizar la contextura fisica de ellos tanto peso como altura y finalmente introducir la información de las medallas ganadas. Ademas se puede analizar información complementaria que ayude a entender el transfondo de lo que se busca en la hipotesis planteada.
+
+Objetivos a evaluar como guía para el analisis de graficos - Hipotesis especificas
+
+1)Evaluar si la mayoría de los atletas olímpicos se encuentran en el rango de edad de 18 a 25 años, reflejando el pico de rendimiento físico en deportes competitivos y finalizando su actividad a los 50 años, y evaluar si la participación de menores de 18 años representa la proporción más pequeña debido a las altas exigencias del rendimiento.
+
+Evaluar si la altura media (percentil 50) de los hombres es significativamente mayor que la de las mujeres y comparar la dispersión de alturas (amplitud del rango intercuartilico - IQR) para determinar si es mayor entre los hombres o mujeres; además, analizar la simetría de la distribución de la altura en mujeres respecto a los hombres y comparar el percentil 75 de las mujeres con el percentil 25 de los hombres para identificar posibles coincidencias.
+
+Descubrir los paises que lideran el medallero olimpico y con una mayor proporción de medallas de oro. Ademas evaluar la distribución de las medallas en los 10 paises del Top e identificar el pais con menor cantidad de medallas de plata
+
+Evaluar la relación entre altura y peso de los atletas, si se demuestra un aumento en peso conforme incrementa la altura, con patrones diferentes entre hombres y mujeres, y con algunos atletas que se desvían significativamente de la tendencia general, evaluar que sexo es mas disperso.
+
+Evaluar si los deportes de equipo estan liderados por el género masculino en el top 3 de disciplinas con más medallas, contribuyen significativamente al total de medallas, con un sesgo de género; en particular, se piensa que el fútbol destaca en participación masculina y el hockey en femenina, mientras que en deportes como el básquet la participación de mujeres es casi nula.
