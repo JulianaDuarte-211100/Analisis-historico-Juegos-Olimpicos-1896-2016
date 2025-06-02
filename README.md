@@ -1,6 +1,7 @@
 # Analisis-historico-Juegos-Olimpicos-1896-2016
 
 Curso: Data Science 2
+
 Fecha: Junio 2025
 
 Alumno: Duarte Juliana Ines
