@@ -31,3 +31,16 @@ Código del País: El código de tres letras que representa el país asociado al
 Juego: El evento olímpico o deporte específico en el que compitió el atleta.
 Año: El año en que el atleta participó en los Juegos Olímpicos.
 Temporada: La temporada de los Juegos Olímpicos (ya sea Verano o Invierno).
+Ciudad: La ciudad sede donde se llevaron a cabo los Juegos Olímpicos.
+Deporte: La categoría deportiva general en la que compitió el atleta (por ejemplo, Atletismo, Natación, Gimnasia).
+Evento: El evento específico dentro del deporte en el que compitió el atleta (por ejemplo, 100m Libre, Salto de Longitud, Maratón).
+Medalla: El tipo de medalla que ganó el atleta, si ganó alguna (Oro, Plata, Bronce). Si el atleta no ganó una medalla, este campo estará vacío.
+Fuente
+
+https://www.kaggle.com/datasets/harshvgh/olympics?resource=download.
+
+Hipotesis general
+
+"La mayoría de los participantes en las Olimpiadas se concentra en un rango etario promedio de 23 años, con una edad máxima de alrededor de 50 años, ademas en el Top 10 de los deportes con mayor cantidad de medallas, la participación masculina continúa siendo predominantemente superior, aunque en los últimos años la proporción de hombres y mujeres se ha equilibrado en comparación con décadas anteriores. Por otro lado, la media de las alturas difieren considerablemente entre géneros, y no se observa una relación clara entre altura y peso en la mayoría de los casos"
+
+Para el desarrollo de la misma sera necesario analizar muchos de los factores claves del Dataset elegido ya que es necesario investigar en primer medida el rango etario de los participantes (que se realizara por rango para poder identificar mejor la distribución de cada grupo), luego distinguir el genero de los mismos, analizar la contextura fisica de ellos tanto peso como altura y finalmente introducir la información de las medallas ganadas. Ademas se puede analizar información complementaria que ayude a entender el transfondo de lo que se busca en la hipotesis planteada.
