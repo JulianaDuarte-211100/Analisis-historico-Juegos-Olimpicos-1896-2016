@@ -2,7 +2,7 @@
 
 Curso: Data Science 2
 
-Fecha: Junio 2025
+Fecha: Agosto 2025
 
 Alumno: Duarte Juliana Ines
 
